@@ -1,0 +1,36 @@
+.card-form{
+    width: 348px;
+    height: 438px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin: 40px auto;
+    padding: 20px;
+    text-align: left;
+}
+
+.card-form label, .card-form input{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+}
+
+.card-form input:first-child{
+padding-top: 20px;
+}
+
+.card-form label{
+    font-weight: bold;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: #C01466;
+}
+
+.card-form input{
+    margin-bottom: 20px;
+}
+
+.card-form input{
+    width: 328px;
+    height: 37px;
+    padding-left: 12px;
+    border: 1px solid #C4C4C4;
+    border-radius: 5px;
+}
